@@ -4,7 +4,7 @@ import React from "react";
 const OrderBook = () => {
   return (
     <View style={styles.container}>
-      <Text>OrderBook</Text>
+      <Text>Order Book</Text>
     </View>
   );
 };
